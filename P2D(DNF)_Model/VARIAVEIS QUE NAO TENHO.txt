@@ -1,0 +1,2 @@
+temperature depende do x (ver quando adicionar essa variable)
+Total lithium loss [mol] and State of Charge: não estão definidos
